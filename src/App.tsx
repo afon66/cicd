@@ -9,7 +9,7 @@ function App() {
     <>
       <div>
         <Division />
-        <p>
+        <p style={{color: 'green'}}>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic odio
           similique aliquid itaque velit exercitationem fugiat soluta cupiditate
           culpa nobis, voluptatibus sapiente! Explicabo tempora, reprehenderit
